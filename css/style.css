@@ -104,21 +104,21 @@ a:focus {
     border-radius: 28px;
 }
 .cy_button:before {
-    border-bottom: 2px solid #ff712a;
-    border-left: 2px solid #ff712a;
+    border-bottom: 2px solid #e51f33;
+    border-left: 2px solid #e51f33;
     -webkit-transform-origin: 50% 50%;
     -moz-transform-origin: 50% 50%;
     -ms-transform-origin: 50% 50%;
     -o-transform-origin: 50% 50%;
 }
 .cy_button:after {
-    border-top: 2px solid #ff712a;
-    border-right: 2px solid #ff712a;
+    border-top: 2px solid #e51f33;
+    border-right: 2px solid #e51f33;
     -webkit-transform-origin: 50% 50%;
 }
 .cy_button:hover {
     background-color: transparent;
-    color: #ff712a;
+    color: #e51f33;
     cursor:pointer;
 }
 .cy_button:hover:after,
@@ -540,9 +540,9 @@ button.cy_menu_btn {
     width:55px;
     line-height: 55px;
 	font-size:18px;
-    color: #ff712a;
+    color: #e51f33;
     text-align: center;
-    background: #ff712a;
+    background: #e51f33;
     color:#fff;
 }
 .cy_search_input i:hover{
@@ -914,7 +914,7 @@ h1.cy_heading {
     right: -4%;
     top: 0;
     height: 100%;
-    background-color: rgba(255, 113, 42, 0.88);
+    background-color: rgba(229, 31, 51, 0.88);
     content: "";
     transform: skew(-14deg);
     -webkit-transform: skew(-14deg);
@@ -1086,7 +1086,7 @@ h1.cy_heading {
     left: -4%;
     top: 0;
     height: 100%;
-    background-color: rgba(255, 113, 42, 0.88);
+    background-color: rgba(229, 31, 51, 0.88);
     content: "";
     transform: skew(-15deg);
     -webkit-transform: skew(-15deg);
@@ -1107,7 +1107,7 @@ h1.cy_heading {
 }
 .cy_tour_data .cy_button {
     background-color: #ffffff;
-    color: #ff712a;
+    color: #e51f33;
 }
 .cy_tour_heading {
     padding: 120px 0px;
@@ -1212,7 +1212,7 @@ h1.cy_heading {
 }
 .cy_event_date {
     float: right;
-    background-color: #ff712a;
+    background-color: #e51f33;
     padding: 10px 25px;
     text-align: center;
 }
@@ -1450,7 +1450,7 @@ span.ev_yr {
     position: absolute;
     top:0;
     left:0;
-    background:#f27131;
+    background:#e51f33;
     color:#ffffff;
     text-align: center;
     padding: 15px 10px;
@@ -1527,7 +1527,7 @@ span.ev_yr {
     right: -4%;
     top: 0;
     height: 100%;
-    background-color: rgba(255, 113, 42, 0.88);
+    background-color: rgba(229, 31, 51, 0.88);
     content: "";
     transform: skew(-14deg);
     -webkit-transform: skew(-14deg);
@@ -1622,7 +1622,7 @@ span.ev_yr {
     position: absolute;
     top: 20px;
     left: 0;
-    background: #ff712a;
+    background: #e51f33;
     border-radius: 0px 100px 100px 0px;
     color: #ffffff;
     padding: 6px 25px 6px 15px;
@@ -1681,7 +1681,7 @@ span.ev_yr {
     top: 20%;
     left: 0;
     margin: 0;
-    background: rgba(255, 113, 42, 0.58);
+    background: rgba(229, 31, 51, 0.58);
     padding: 15px 10px;
     border-radius: 0px;
 }
@@ -1690,7 +1690,7 @@ span.ev_yr {
     top: 20%;
     right: 0;
     margin: 0;
-    background: rgba(255, 113, 42, 0.58);
+    background: rgba(229, 31, 51, 0.58);
     padding: 15px 10px;
     border-radius: 0px;
 }
@@ -1721,7 +1721,7 @@ span.ev_yr {
     z-index: 1;
 }
 .cy_price_head:after {
-    background-color: #ff712a;
+    background-color: #e51f33;
     position: absolute;
     content: "";
     width: auto;
@@ -1977,7 +1977,7 @@ ul.cy_blog_info li:hover a {
     right: -4%;
     top: 0;
     height: 100%;
-    background-color: rgba(255, 113, 42, 0.88);
+    background-color: rgba(229, 31, 51, 0.88);
     content: "";
     transform: skew(-14deg);
     -webkit-transform: skew(-14deg);
