@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5dec4136-4326-42da-ab17-614e223565e8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/checkout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/contact/con_img3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/contact/con_img3.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shop.html" beforeDir="false" afterPath="$PROJECT_DIR$/shop.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop_single.html" beforeDir="false" afterPath="$PROJECT_DIR$/shop_single.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -31,7 +32,7 @@
         <counts>
           <entry key="css" value="10" />
           <entry key="gif" value="2" />
-          <entry key="html" value="6" />
+          <entry key="html" value="10" />
           <entry key="jpg" value="1" />
           <entry key="js" value="1" />
           <entry key="png" value="5" />
@@ -41,7 +42,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="10" />
-          <entry key="HTML" value="6" />
+          <entry key="HTML" value="10" />
           <entry key="Image" value="8" />
           <entry key="JavaScript" value="1" />
           <entry key="RNG Compact" value="1" />
@@ -50,13 +51,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="36" />
-          <entry key="html" value="1705" />
+          <entry key="html" value="2035" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="36" />
-          <entry key="HTML" value="1705" />
+          <entry key="HTML" value="2035" />
         </counts>
       </usages-collector>
     </session>
@@ -66,8 +67,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="332" column="35" lean-forward="true" selection-start-line="332" selection-start-column="35" selection-end-line="332" selection-end-column="35" />
+            <state relative-caret-position="174">
+              <caret line="881" column="98" selection-start-line="881" selection-start-column="98" selection-end-line="881" selection-end-column="98" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -76,23 +77,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop.html">
+        <entry file="file://$PROJECT_DIR$/checkout.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="13800">
-              <caret line="600" column="48" lean-forward="true" selection-start-line="600" selection-start-column="48" selection-end-line="600" selection-end-column="48" />
-              <folding>
-                <element signature="n#ul#0;n#div#5;n#div#0;n#div#1;n#div#0;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#9;n#body#0;n#html#0;n#!!top" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="1762" column="41" lean-forward="true" selection-start-line="1762" selection-start-column="41" selection-end-line="1762" selection-end-column="41" />
+            <state relative-caret-position="415">
+              <caret line="488" column="6" selection-start-line="488" selection-start-column="6" selection-end-line="488" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -114,11 +102,16 @@
       <find>form</find>
       <find>review</find>
       <find>tu val</find>
-      <find>ff712a</find>
       <find>nuestro eq</find>
+      <find>ff712a</find>
+      <find>rgba</find>
+      <find>rgba(255, 113, 42,</find>
+      <find>direc</find>
+      <find>servicios</find>
     </findStrings>
     <replaceStrings>
       <replace>e51f33</replace>
+      <replace>rgba(229, 31, 51,</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -127,9 +120,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/shop_single.html" />
         <option value="$PROJECT_DIR$/shop.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/shop_single.html" />
+        <option value="$PROJECT_DIR$/contact.html" />
+        <option value="$PROJECT_DIR$/checkout.html" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -164,6 +159,17 @@
               <item name="proRiderV1" type="b2602c69:ProjectViewProjectNode" />
               <item name="proRiderV1" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proRiderV1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proRiderV1" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proRiderV1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proRiderV1" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="contact" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -201,12 +207,12 @@
       <option name="presentableId" value="Default" />
       <updated>1551987456038</updated>
       <workItem from="1551987458282" duration="11147000" />
-      <workItem from="1552053204336" duration="5467000" />
+      <workItem from="1552053204336" duration="6976000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16614000" />
+    <option name="totallyTimeSpent" value="18123000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -224,7 +230,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.21271929" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.24780701" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -277,14 +283,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="850" column="34" lean-forward="true" selection-start-line="850" selection-start-column="34" selection-end-line="850" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/shop.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13800">
-          <caret line="600" column="48" lean-forward="true" selection-start-line="600" selection-start-column="48" selection-end-line="600" selection-end-column="48" />
+        <state relative-caret-position="299">
+          <caret line="220" column="53" selection-start-line="220" selection-start-column="53" selection-end-line="220" selection-end-column="53" />
           <folding>
             <element signature="n#ul#0;n#div#5;n#div#0;n#div#1;n#div#0;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#9;n#body#0;n#html#0;n#!!top" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="274" column="34" lean-forward="true" selection-start-line="274" selection-start-column="34" selection-end-line="274" selection-end-column="61" />
         </state>
       </provider>
     </entry>
@@ -298,17 +318,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/checkout.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="1762" column="41" lean-forward="true" selection-start-line="1762" selection-start-column="41" selection-end-line="1762" selection-end-column="41" />
+        <state relative-caret-position="415">
+          <caret line="488" column="6" selection-start-line="488" selection-start-column="6" selection-end-line="488" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="332" column="35" lean-forward="true" selection-start-line="332" selection-start-column="35" selection-end-line="332" selection-end-column="35" />
+        <state relative-caret-position="174">
+          <caret line="881" column="98" selection-start-line="881" selection-start-column="98" selection-end-line="881" selection-end-column="98" />
           <folding>
             <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
